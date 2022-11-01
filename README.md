@@ -1,2 +1,2 @@
 # glad
-form: https://github.com/Dav1dde/glad
+Form: https://github.com/Dav1dde/glad
